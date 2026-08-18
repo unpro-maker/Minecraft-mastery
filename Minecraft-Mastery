@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Minecraft Mastery</title>
+</head>
+
+<body>
+
+    <h1>Minecraft Mastery</h1>
+
+    <h2>Who is the world's best Minecraft player?</h2>
+
+    <p>
+       Minecraft Mastery tests players across many different aspects of Minecraft to determine the best overall player.
+    </p>
+
+    <h2>Current #1</h2>
+
+    <p>No ranked players yet.</p>
+
+    <h2>Explore</h2>
+
+    <p><a href="rankings.html">Veiw Rankings</a></p>
+
+    <p><a href="categories.html">Veiw Categories</a></p>
+
+    <p><a href="challenges.html">Veiw Challenges</a></p>
+
+    <p><a href="players.html">Veiw Players</a></p>
+
+    <p><a href="rules.html">Veiw Rules</a></p>
+
+</body>
+
+</html>
